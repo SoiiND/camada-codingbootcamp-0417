@@ -1,0 +1,86 @@
+    
+
+    .FOTO {
+
+        
+        width: 25%;
+        margin: 0px ;
+        padding: 0px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    body {
+    
+    margin: 0 ;
+    padding: 0 ;
+    background: rgb(2,0,36);
+    /*background: linear-gradient(90deg, rgb(250, 4, 238) 0%, rgb(9, 121, 9) 35%, rgb(38, 0, 255) 100%);*/
+    /*background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);*/
+    /*background-image: linear-gradient(to left, blue,orange,yellow,black);*/
+    background-image: linear-gradient(to right, blue,indigo,cyan,green);
+
+    /* background: linear-gradient(to right, rgba(255,255,255,0), rgba(126, 112, 112, 0.815)), url(https://i.pinimg.com/originals/d5/1c/a8/d51ca86d53ceb28a41191e16a8f3636a.jpg); */
+    
+    }
+    
+
+    .menu {
+        display: flex;
+        
+
+    }
+
+    .boton {
+        text-transform: uppercase;
+        text-decoration: none;
+
+        padding: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+
+        font-family: arial;
+        font-weight: 800;
+        font-size: 25px;
+        font-style: italic;
+
+        color: #00ff0d;
+        border-radius: 15px;
+        border: 3px double #00ff0d;
+        background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);
+        position:relative;
+
+      }
+      .boton:hover{
+        opacity: 0.6;
+        text-decoration: none;
+        
+    }
+    
+    .negra
+     {
+
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+
+     }
+
+     .fotoNegra {
+
+       width: 100%;
+     }
+     
+      .cartel {
+       display: flex;
+       width: 100%;
+       
+       
+       
+      }
+
+
+      
+
+     
